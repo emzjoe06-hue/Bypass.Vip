@@ -1,4 +1,4 @@
-### OH sorry I coudn't Give you the source code.
+### OH sorry I cant't Give you the source code.
 
 - as it violates their TOS. and i dont want to have legal trouble with them. OR U to get into legal trouble  because u decided to MODIFY or Sell it.
 
@@ -19,6 +19,11 @@
 - How? did i do it? 
 
 - i just used Puppeteer & A captcha resolver. (EXTENSION I DIDNT WANT TO PAY FOR AN API.)
+
+The "magic" is just automation. I didnt reverse-engineering anything I was just using their public website with a captcha solver attached like a robot user who never gets tired.
+
+The thing that makes money / costs money here: NopeCHA's Each bypass burns 1 solve. (I go broke Luckily they offer a free Daily Limit so i just use that)
+
 
 # Proof? Here
 
