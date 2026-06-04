@@ -1,8 +1,6 @@
 ### OH sorry I coudn't Give you the source code.
 
-- as it violates their TOS. and i dont want to have legal trouble with them. OR U get into legal trouble 
-
-- because u decided to MODIFY and Sell it.
+- as it violates their TOS. and i dont want to have legal trouble with them. OR U to get into legal trouble  because u decided to MODIFY or Sell it.
 
 ### What terms did i violated? 
 
@@ -23,3 +21,13 @@
 - i just used Puppeteer & A captcha resolver. (EXTENSION I DIDNT WANT TO PAY FOR AN API.)
 
 # Proof? Here
+
+<img width="1909" height="934" alt="image" src="https://github.com/user-attachments/assets/6d2eaacc-4e86-40ac-8dfb-341bf76566b0" />
+beautiful ui isnt it? thank minimax m3 for the UI hahaha
+
+<img width="1157" height="315" alt="image" src="https://github.com/user-attachments/assets/f3a57d99-a86c-4d4b-bb64-704ee3243e75" />
+heres the bypass output.
+
+<img width="946" height="211" alt="image" src="https://github.com/user-attachments/assets/06d3b582-e41d-42f0-8114-99ad8f476d37" />
+heres the terminal
+
