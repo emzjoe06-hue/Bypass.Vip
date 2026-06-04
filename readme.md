@@ -10,9 +10,9 @@
 
              Use Restrictions
              You may not use the service for illegal activities
-             You may not attempt to circumvent any rate limits our security measures **<-- I have violated this one**
-             You may not resell or redistribute the service without explicit permission **<-- I have violated this one too**
-             You may not use automated tools to scrape or mass-access the service **<--- I violated this one too**
+             You may not attempt to circumvent any rate limits our security measures <-- I have violated this one
+             You may not resell or redistribute the service without explicit permission <-- I have violated this one too
+             You may not use automated tools to scrape or mass-access the service <--- I violated this one too
 
 # why? did i created this
 
